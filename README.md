@@ -1,1 +1,1 @@
-# Customer-Churn-Prediction
+# Customer-Loyalty-Prediction
